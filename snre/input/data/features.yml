@@ -1,0 +1,15 @@
+---
+feedback:
+  - active: true
+    type: "googleform"   
+    label: "Observaciones"   
+    formUrl: https://docs.google.com/forms/d/e/1FAIpQLSeN-pr4KHP-JOYclwFKpsDw5Y11NGXNyg29sQvqipHhmmNfhw/viewform?usp=pp_url
+    dashboard: 
+      #url: https://github.com/worldhealthorganization/ddcc/projects/1
+      #url: https://github.com/Minsal-CL/SIGTEv2-IG
+      label: "Issues"    
+    parameters:
+    - fieldId: "1894621411"
+      variableName: "pageTitle"
+    - fieldId: "823462654"
+      variableName: "sectionName"
