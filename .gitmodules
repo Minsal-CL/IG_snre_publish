@@ -1,0 +1,3 @@
+[submodule "IG_snre"]
+	path = IG_snre
+	url = https://github.com/Minsal-CL/IG_snre.git
