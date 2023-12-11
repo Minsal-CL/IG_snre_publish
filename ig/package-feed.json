@@ -77,7 +77,7 @@
         },
         {
             "name": "MINSAL (Ministerio de Salud de Chile)",
-            "url": "https://interoperabilidad.minsal.cl/fhir/ig/SNRE",
+            "url": "https://interoperabilidad.minsal.cl/fhir/ig/snre",
             "errors": "jmansilla|hl7chile_cl"
         }
     ],

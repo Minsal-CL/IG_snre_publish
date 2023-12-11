@@ -7014,6 +7014,31 @@
           "url": "https://hl7chile.cl/fhir/ig/clcore/1.8.4"
         }
       ]
+    },
+    {
+      "name": "Chile Coddddre",
+      "category": "National Base",
+      "npm-name": "hl7.fhir.cl.minsal.snre",
+      "description": "??",
+      "authority": "??",
+      "country": "??",
+      "history": "ttps://interoperabilidad.minsal.cl/fhir/ig/snre/history.html",
+      "language": [
+        "en"
+      ],
+      "canonical": "https://interoperabilidad.minsal.cl/fhir/ig/snre",
+      "ci-build": "http://build.fhir.org/ig/HL7Chile/clcore",
+      "editions": [
+        {
+          "name": "STU2 Draft",
+          "ig-version": "1.8.4",
+          "package": "hl7.fhir.cl.minsal.snre#1.8.4",
+          "fhir-version": [
+            "4.0.1"
+          ],
+          "url": "https://hl7chile.cl/fhir/ig/clcore/1.8.4"
+        }
+      ]
     }
   ]
 }
