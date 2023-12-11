@@ -1,3 +1,3 @@
-[submodule "snre"]
-	path = snre
+[submodule "_snre"]
+	path = _snre
 	url = https://github.com/Minsal-CL/snre.git
